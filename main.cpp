@@ -3,7 +3,7 @@
 
 int main()
 {
-    cout<<"Hi, please enter two whole numbers: ";
+    std::cout << "Hi, please enter two whole numbers: ";
 
     int x,y;
 
